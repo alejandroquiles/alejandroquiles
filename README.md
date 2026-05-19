@@ -19,7 +19,7 @@ Después de trabajar en el mundo audiovisual descubrí en la programación una m
 # Actualmente formándome en:
 
 
-Centrado en seguir desarrollando mis conocimientos en backend con Java y profundizando en el ecosistema Spring, bases de datos relacionales y buenas prácticas de programación orientada a objetos.
+Seguir desarrollando mis conocimientos en backend con Java y profundizando en el ecosistema Spring, bases de datos relacionales y buenas prácticas de programación orientada a objetos.
 
 
 ## Objetivos
