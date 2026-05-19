@@ -1,6 +1,14 @@
 ![Banner](banner.jpg)
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github)](https://skillicons.dev)
+## Currently Learning
 
+- Java Backend Development
+- Spring Boot
+- Relational Databases
+- Object-Oriented Programming
+- Git & GitHub
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
 <!--
 **alejandroquiles/alejandroquiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
