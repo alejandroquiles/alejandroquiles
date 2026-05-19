@@ -1,25 +1,27 @@
 ![Banner](banner.jpg)
-## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github)](https://skillicons.dev)
-## Currently Learning
 
-- Java Backend Development
-- Spring Boot
-- Relational Databases
-- Object-Oriented Programming
-- Git & GitHub
+# Sobre mí
 
-<!--
-**alejandroquiles/alejandroquiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy Alejandro, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente en transición del sector audiovisual al desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Después de trabajar en el mundo audiovisual descubrí en la programación una motivación real por la tecnología, la resolución de problemas y el aprendizaje continuo.
+
+
+# Tecnologías 
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
+</p>
+
+
+# Actualmente formándome en:
+
+
+Centrado en seguir desarrollando mis conocimientos en backend con Java y profundizando en el ecosistema Spring, bases de datos relacionales y buenas prácticas de programación orientada a objetos.
+
+
+## Objetivos
+
+Construir mi camino dentro del desarrollo de software, aprendiendo paso a paso y disfrutando del proceso de convertir ideas en proyectos reales.
